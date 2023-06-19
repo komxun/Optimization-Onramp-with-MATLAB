@@ -2,8 +2,8 @@
 
 ## Defining an Optimization Problem
 
-- You can use the **optimproblem** function to create an optimization problem
-- Define optimization variables using the **optimvar** function
+- **optimproblem**  :   create an optimization problem
+- **optimvar**  :   define optimization variables
 - As a best practice, varname should be the same as the MATLAB variable name to avoid confusion
 - Use **show** to display the contents of an optimization problem
 
