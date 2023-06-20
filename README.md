@@ -56,7 +56,7 @@ The `evaluate` function can be used to evaluate optimization expressions at a sp
 solEval = evaluate(prob.Objective, sol)
 ```
 
-# Example 1: 
+# Example 1: Unconstrained Optimization Problem
 ![image](https://github.com/komxun/Optimization-Onramp-with-MATLAB/assets/133139057/94e60e15-325e-4cfd-ad65-c58ab7d07e29)
 
 
