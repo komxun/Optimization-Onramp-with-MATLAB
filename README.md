@@ -65,6 +65,6 @@ d = \sqrt{(x-X)^2+(y-Y)^2}
 ```
 Where $x$ and $y$ are symbolic optimization variables, and $X$ and $Y$ are the coordinates of the stores
 
-https://github.com/komxun/Optimization-with-MATLAB/blob/26b147d5766dd05e0d6acbaa3a6dbcc415697181/Ex1_Unconstrained.m#L1-L39
+https://github.com/komxun/Optimization-Onramp-with-MATLAB/blob/9affa04c4a4a34c9e34cb42dfedf5ca6612f6e3c/Ex1_Unconstrained.m#L1-L39
 
 
