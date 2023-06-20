@@ -1,4 +1,4 @@
-# Optimization-with-MATLAB
+# Optimization-Onramp-with-MATLAB
 Summary from [MATLAB Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
 
 # Defining an Optimization Problem
@@ -57,7 +57,7 @@ solEval = evaluate(prob.Objective, sol)
 ```
 
 # Example 1: 
-![image](https://github.com/komxun/Optimization-with-MATLAB/assets/133139057/bcebd482-54f2-4c2a-b4d3-f1a2e1a0fcc9)
+![image](https://github.com/komxun/Optimization-Onramp-with-MATLAB/assets/133139057/bcebd482-54f2-4c2a-b4d3-f1a2e1a0fcc9)
 
 The distance between the factory and the three stores is 
 ``` math
