@@ -65,15 +65,6 @@ d = \sqrt{(x-X)^2+(y-Y)^2}
 ```
 Where $x$ and $y$ are symbolic optimization variables, and $X$ and $Y$ are the coordinates of the stores
 
-``` matlab
-prob = optimproblem("Description", "Factory Location");
-x = optimvar("x");
-y = optimvar("y");
-X = [5 40 70];
-Y = [20 50 15];
+https://github.com/komxun/Optimization-with-MATLAB/blob/26b147d5766dd05e0d6acbaa3a6dbcc415697181/Ex1_Unconstrained.m#L1-L39
 
-d = sqrt((x-X).^2 + (y-Y).^2);  % 1x3 expression array representing a distance between the factory and the three stores 
-dTotal = sum(d);
 
-prob.Objective = dTotal;
-```
